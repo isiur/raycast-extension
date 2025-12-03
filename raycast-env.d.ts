@@ -40,4 +40,3 @@ declare namespace Arguments {
   export type Search = {}
 }
 
-
